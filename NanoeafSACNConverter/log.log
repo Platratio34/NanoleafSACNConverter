@@ -1,0 +1,8 @@
+Error Logger:
+10:32:45.401: Error: java.net.SocketException: bad argument for IP_MULTICAST_IF2
+	at java.base/java.net.AbstractPlainDatagramSocketImpl.setOption(AbstractPlainDatagramSocketImpl.java:354)
+	at java.base/java.net.MulticastSocket.setNetworkInterface(MulticastSocket.java:560)
+	at sacnReciver.ReciverRunner.<init>(ReciverRunner.java:119)
+	at sacnReciver.Reciver.start(Reciver.java:69)
+	at sacnReciver.Reciver.<init>(Reciver.java:45)
+	at main.NSACNMain.main(NSACNMain.java:59)

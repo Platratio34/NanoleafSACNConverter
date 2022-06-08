@@ -1,0 +1,38 @@
+{
+	"nDevices": [{
+	"hostname": "10.197.145.215",
+	"port": 16021,
+	"name": "Shapes 7F3F",
+	"accessToken": "Hwi97P0NtVp23gSJEUbOrTTQgqSoAPHc",
+	"type": 0
+}, {
+	"hostname": "10.197.129.212",
+	"port": 16021,
+	"name": "Shapes 46A5",
+	"accessToken": "smVNDNGwRx8s9dNTx5ynH5W8TK191qUm",
+	"type": 0
+}],
+	"dmxDevices": [{
+	"panels": [
+		65520,
+		54178,
+		49973,
+		0
+	],
+	"device": "Shapes 7F3F",
+	"absAdr": 400
+}, {
+	"panels": [
+		60184,
+		46159,
+		29572,
+		57864,
+		13175,
+		28144,
+		51447,
+		0
+	],
+	"device": "Shapes 46A5",
+	"absAdr": 400
+}]
+}

@@ -1,0 +1,98 @@
+{
+	"nDevices": [
+		{
+			"hostname": "10.197.132.245",
+			"port": 16021,
+			"name": "Shapes 0C10",
+			"accessToken": "28PBFoilGfCLkcn0SPiKPpkVRc9pZKhn",
+			"type": 9
+		},
+		{
+			"hostname": "10.197.146.160",
+			"port": 16021,
+			"name": "Shapes 7F3F",
+			"accessToken": "DhVmycg0LhXROgoLHrOCFN511XmAQpWN",
+			"type": 9
+		},
+		{
+			"hostname": "10.197.146.163",
+			"port": 16021,
+			"name": "Shapes 46A5",
+			"accessToken": "bhQrhgPns3ImrOuW9WtSNJSlX3BZj3oc",
+			"type": 9
+		}
+	],
+	"dmxDevices": [
+		{
+			"panels": [
+				39546,
+				20722,
+				7086,
+				16668,
+				11260,
+				59835,
+				8068,
+				43856,
+				54335,
+				58264,
+				44963,
+				59265,
+				46166,
+				703,
+				0
+			],
+			"device": "Shapes 7F3F",
+			"absAdr": 400
+		},
+		{
+			"panels": [
+				50595,
+				28618,
+				13175,
+				27042,
+				45964,
+				54178,
+				47667,
+				65520,
+				65460,
+				60184,
+				28144,
+				59086,
+				49973,
+				54489,
+				0
+			],
+			"device": "Shapes 46A5",
+			"absAdr": 445
+		},
+		{
+			"panels": [
+				3701,
+				15961,
+				17250,
+				37550,
+				65108,
+				39680,
+				62482,
+				7478,
+				6552,
+				52366,
+				3024,
+				29173,
+				51447,
+				57864,
+				9073,
+				29572,
+				41048,
+				26536,
+				41267,
+				1917,
+				36915,
+				10905,
+				0
+			],
+			"device": "Shapes 0C10",
+			"absAdr": 513
+		}
+	]
+}
